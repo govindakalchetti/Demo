@@ -1,0 +1,117 @@
+\documentclass[10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{mhchem}
+\usepackage{stmaryrd}
+\usepackage{graphicx}
+
+\title{Synthesis of ATP from ADP }
+
+\author{}
+\date{}
+
+
+\begin{document}
+\maketitle
+\section{Photosynthesis}
+Photosynthesis is the process by which plants, some bacteria and some protistans use the energy from sunlight to produce glucose from carbon dioxide and water. This glucose can be converted into pyruvate which releases adenosine triphosphate (ATP) by cellular respiration. Oxygen is also formed.
+
+Photosynthesis may be summarised by the word equation:
+$$
+\text { carbon dioxide + water } \underset{\text { chlorophyll }}{\stackrel{\text { sunlight }}{\longrightarrow}} \text { glucose + oxygen }
+$$
+The conversion of usable sunlight energy into chemical energy is associated with the action of the green pigment chlorophyll.
+
+Chlorophyll is a complex molecule. Several modifications of chlorophyll occur among plants and other photosynthetic organisms. All photosynthetic organisms have chlorophyll a. Accessory pigments absorb energy that chlorophyll a does not absorb. Accessory pigments include chlorophyll b (also c, $\mathrm{d}$, and e in algae and protistans), xanthophylls, and carotenoids (such as beta-carotene). Chlorophyll a absorbs its energy from the violet-blue and reddish orange-red wavelengths, and little from the intermediate (green-yellow-orange) wavelengths.
+
+\includegraphics[ width=\textwidth]{Screenshot (45).jpg}
+
+
+
+All chlorophylls have:
+
+\begin{itemize}
+  \item a lipid-soluble hydrocarbon tail $\left(\mathrm{C}_{20} \mathrm{H}_{39}-\right)$
+
+  \item a flat hydrophilic head with a magnesium ion at its centre; different chlorophylls have different side-groups on the head
+
+\end{itemize}
+The tail and head are linked by an ester bond.
+
+\section{Leaves and leaf structure}
+Plants are the only photosynthetic organisms to have leaves (and not all plants have leaves). A leaf may be viewed as a solar collector crammed full of photosynthetic cells.
+
+The raw materials of photosynthesis, water and carbon dioxide, enter the cells of the leaf, and the products of photosynthesis, sugar and oxygen, leave the leaf.
+
+Water enters the root and is transported up to the leaves through specialized plant cells known as xylem vessels. Land plants must guard against drying out and so have evolved specialized structures known as stomata to allow gas to enter and leave the leaf. Carbon dioxide cannot pass through the protective waxy layer covering the leaf (cuticle), but it can enter the leaf through the stoma (the singular of stomata), flanked by two guard cells. Likewise, oxygen produced during photosynthesis can only pass out of the leaf through the opened stomata. Unfortunately for the plant, while these gases are moving between the inside and outside of the leaf, a great deal of water is also lost. Cottonwood trees, for example, will lose 100 gallons (about $450 \mathrm{dm}^{3}$ ) of water per hour during hot desert days.
+
+\section{The structure of the chloroplast and photosynthetic membranes}
+The thylakoid is the structural unit of photosynthesis. Both photosynthetic prokaryotes and eukaryotes have these flattened sacs/vesicles containing photosynthetic chemicals. Only eukaryotes have chloroplasts with a surrounding membrane.
+
+Thylakoids are stacked like pancakes in stacks known collectively as grana. The areas between grana are referred to as stroma. While the mitochondrion has two membrane systems, the chloroplast has three, forming three compartments.
+
+\includegraphics[ width=\textwidth]{Screenshot (42).jpg}
+
+\section{Stages of photosynthesis}
+When chlorophyll a absorbs light energy, an electron gains energy and is 'excited'. The excited electron is transferred to another molecule (called a primary electron acceptor). The chlorophyll molecule is oxidized (loss of electron) and has a positive charge. Photoactivation of chlorophyll a results in the splitting of water molecules and the transfer of energy to ATP and reduced nicotinamide adenine dinucleotide phosphate (NADP).
+
+The chemical reactions involved include:
+
+\begin{itemize}
+  \item condensation reactions - responsible for water molecules splitting out, including phosphorylation (the addition of a phosphate group to an organic compound)
+
+  \item oxidation/reduction (redox) reactions involving electron transfer
+
+\end{itemize}
+Photosynthesis is a two stage process.
+
+The light dependent reactions, a light-dependent series of reactions which occur in the grana, and require the direct energy of light to make energy-carrier molecules that are used in the second process
+
+\begin{itemize}
+  \item light energy is trapped by chlorophyll to make ATP (photophosphorylation)
+
+  \item at the same time water is split into oxygen, hydrogen ions and free electrons:
+
+\end{itemize}
+$2 \mathrm{H}_{2} \mathrm{O} \rightarrow 4 \mathrm{H}^{+}+\mathrm{O}_{2}+4 \mathrm{e}^{-}($photolysis)
+
+\begin{itemize}
+  \item the electrons then react with a carrier molecule nicotinamide adenine dinucleotide phosphate (NADP), changing it from its oxidised state (NADP ${ }^{+}$) to its reduced state (NADPH):
+\end{itemize}
+$\mathrm{NADP}^{+}+2 \mathrm{e}^{-}+2 \mathrm{H}^{+} \rightarrow \mathrm{NADPH}+\mathrm{H}^{+}$
+
+The light-independent reactions, a light-independent series of reactions which occur in the stroma of the chloroplasts, when the products of the light reaction, ATP and NADPH, are used to make carbohydrates from carbon dioxide (reduction); initially glyceraldehyde 3-phosphate (a 3-carbon atom molecule) is formed.
+
+\section{The light-dependent reactions}
+When light energy is absorbed by a chlorophyll molecule its electrons gain energy and move to higher energy levels in the molecule (photoexcitation). Sufficient energy ionises the molecule, with the electron being 'freed' leaving a positively charged chlorophyll ion. This is called photoionisation.
+
+In whole chloroplasts each chlorophyll molecule is associated with an electron acceptor and an electron donor. These three molecules make up the core of a photosystem. Two electrons from a photoionised chlorophyll molecule are transferred to the electron acceptor. The positively charged chlorophyll ion then takes a pair of electrons from a neighbouring electron donor such as water.
+
+\section{The effect of light on chlorophyll}
+\includegraphics[ width=\textwidth]{Screenshot (43).jpg}
+
+An electron transfer system (a series of chemical reactions) carries the two electrons to and fro across the thylakoid membrane. The energy to drive these processes comes from two photosystems:
+
+\begin{itemize}
+  \item Photosystem II (PSII) (P680)
+
+  \item Photosystem I (PSI) $(\mathrm{P} 700)$
+
+\end{itemize}
+It may seem confusing, but PSII occurs before PSI. It is named because it was the second to be discovered and hence named second.
+
+The energy changes accompanying the two sets of changes make a $Z$ shape when drawn out. This is why the electron transfer process is sometimes called the $Z$ scheme. Key to the scheme is that sufficient energy is released during electron transfer to enable ATP to be made from ADP and phosphate.
+
+
+
+Phosphoric acid and ADP undergo a condensation reaction Water is eliminated and ATP is formed A condensation reaction has led to phosphorylation.
+
+\section{PSII and PSI: the Z scheme}
+\includegraphics[ width=\textwidth]{Screenshot (44).jpg}
+
+
+
+\end{document}
